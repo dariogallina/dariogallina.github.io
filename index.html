@@ -1,0 +1,113 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: page
+---
+
+<div>
+  {% for image in site.static_files %}
+    {% if image.path contains 'slide' %}
+      <img class="mySlides" src={{ site.url }}{{ image.path }} style="width:100%" display="none">
+    {% endif %}
+  {% endfor %}
+</div>
+
+<script>
+  var myIndex = 0;
+  //var x = document.getElementsByClassName("mySlides");
+
+  magic_carousel();
+  //carousel();
+
+  function sleep(ms)
+  {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  };
+
+  //function carousel()
+  //{
+  //    var i;
+  //    var x = document.getElementsByClassName("mySlides");
+  //    for (i = 0; i < x.length; i++)
+  //    {
+  //       x[i].style.display = "none";
+  //    };
+  //    myIndex = (myIndex + 1) % x.length;
+  //    x[myIndex].style.display = "block";
+  //    await sleep(2000); // Change image every 2 seconds
+  //};
+
+  function magic_carousel() {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      for (i = 0; i < x.length; i++) {
+         x[i].style.display = "none";
+      }
+      myIndex++;
+      if (myIndex > x.length) {myIndex = 1}
+      x[myIndex-1].style.display = "block";
+      setTimeout(magic_carousel, 2000); // Change image every 2 seconds
+  };
+
+  //function slideShow() {
+  //
+  //    function fadeIn(e) {
+  //        e.className = "fadeIn";
+  //    };
+  //
+  //    function fadeOut(e) {
+  //        e.className = "";
+  //    };
+  //
+  //
+  //    // first we start the existing image fading out;
+  //
+  //    fadeOut(x[myIndex]);
+  //
+  //    // then we start the next image fading in, making sure if we are at the end we restart!
+  //    myIndex++;
+  //    if (myIndex == x.length) {
+  //        myIndex = 0;
+  //    }
+  //
+  //    fadeIn(x[myIndex]);
+  //
+  //    // now we are done we recall this function with a timer, simple.
+  //
+  //    setTimeout(slideShow(), 2000);
+  //};
+
+  //slideShow();
+</script>
+
+
+<h1>Introduzione</h1>
+
+<p>Dopo una formazione tradizionale nell’ambito dell’archeologia (laurea in Archeologia Medievale, collaborazioni a scavi archeologici, e scavi condotti su affidamento), i miei interessi si sono rivolti ormai da alcuni anni al settore dell’Archeologia dell’Architettura e alla gestione ed elaborazione digitale della documentazione grafica, temi relativamente ai quali ho svolto il Dottorato di Ricerca, e dove sono attivo come libero professionista e come collaboratore della didattica universitaria.</p>
+
+<hr />
+
+<table>
+  {% for page in site.pages %}
+    {% if page.in_homepage %}
+      {% cycle '<tr>', nil, nil %}
+      <th>
+        <table>
+          <tr>
+            <th><h1>{{ page.title }}</h1></th>
+          </tr>
+          <tr>
+            <th><p><a href="{{ page.url }}"><img src="{{ site.url }}/images/{{ page.homepage_image }}" alt="alt text" title="{{ page.title }}" /></a></p></th>
+          </tr>
+        </table>
+      </th>
+      {% capture tr_end %}
+        {% cycle nil, nil, '</tr>' %}
+      {% endcapture %}
+    {% endif %}
+  {% endfor %}
+  {% if tr_end != '</tr>' %}
+    </tr>
+  {% endif %}
+</table>

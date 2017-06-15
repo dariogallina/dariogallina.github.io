@@ -1,0 +1,5 @@
+{% for i in site.pages %}
+{% if i.categories == page.index_of %}
+[{{ i.title }}]({{ i.url }})
+{% endif %}
+{% endfor %}

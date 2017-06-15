@@ -1,0 +1,7 @@
+{% for image in site.static_files %}
+{% if image.path contains page.images_prefix %}
+___
+<p></p>
+![{{ image.path }}]({{ site.url }}{{ image.path }})
+{% endif %}
+{% endfor %}
