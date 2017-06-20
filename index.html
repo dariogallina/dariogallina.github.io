@@ -5,82 +5,61 @@
 layout: page
 ---
 
-<div>
+{% assign n = 0 %}
+{% for image in site.static_files %}
+  {% if image.path contains 'slide' %}
+    {% assign n = n | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% assign show_time = 2.0 %}
+{% assign fade_time = 1.0 %}
+{% assign total_time = show_time | plus: fade_time | times: n %}
+
+<style>
+  @keyframes image_fade {
+    0% {
+      opacity: 1;
+    }
+    {{ show_time | divided_by: total_time | times: 100 }}% {
+      opacity: 1;
+    }
+    {{ 1.0 | divided_by: n | times: 100 }}% {
+      opacity: 0;
+    }
+    {% assign x = fade_time | divided_by: total_time | times: 100 %}
+    {{ 100 | minus: x }}% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  .animated img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    animation-name: image_fade;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: {{ total_time }}s;
+  }
+  .animated {
+    position: relative;
+    padding-bottom: 40%;
+  }
+</style>
+
+
+{% assign i = 0 %}
+<div class="animated">
   {% for image in site.static_files %}
     {% if image.path contains 'slide' %}
-      <img class="mySlides" src={{ site.url }}{{ image.path }} style="width:100%" display="none">
+      {% assign i = i | minus: show_time | minus: fade_time %}
+      <img class="mySlides" src={{ site.url }}{{ image.path }} style="opacity:0;animation-delay:{{ i }}s" display="none">
     {% endif %}
   {% endfor %}
 </div>
-
-<script>
-  var myIndex = 0;
-  //var x = document.getElementsByClassName("mySlides");
-
-  magic_carousel();
-  //carousel();
-
-  function sleep(ms)
-  {
-    return new Promise(resolve => setTimeout(resolve, ms));
-  };
-
-  //function carousel()
-  //{
-  //    var i;
-  //    var x = document.getElementsByClassName("mySlides");
-  //    for (i = 0; i < x.length; i++)
-  //    {
-  //       x[i].style.display = "none";
-  //    };
-  //    myIndex = (myIndex + 1) % x.length;
-  //    x[myIndex].style.display = "block";
-  //    await sleep(2000); // Change image every 2 seconds
-  //};
-
-  function magic_carousel() {
-      var i;
-      var x = document.getElementsByClassName("mySlides");
-      for (i = 0; i < x.length; i++) {
-         x[i].style.display = "none";
-      }
-      myIndex++;
-      if (myIndex > x.length) {myIndex = 1}
-      x[myIndex-1].style.display = "block";
-      setTimeout(magic_carousel, 2000); // Change image every 2 seconds
-  };
-
-  //function slideShow() {
-  //
-  //    function fadeIn(e) {
-  //        e.className = "fadeIn";
-  //    };
-  //
-  //    function fadeOut(e) {
-  //        e.className = "";
-  //    };
-  //
-  //
-  //    // first we start the existing image fading out;
-  //
-  //    fadeOut(x[myIndex]);
-  //
-  //    // then we start the next image fading in, making sure if we are at the end we restart!
-  //    myIndex++;
-  //    if (myIndex == x.length) {
-  //        myIndex = 0;
-  //    }
-  //
-  //    fadeIn(x[myIndex]);
-  //
-  //    // now we are done we recall this function with a timer, simple.
-  //
-  //    setTimeout(slideShow(), 2000);
-  //};
-
-  //slideShow();
-</script>
-
 
 <h1>Introduzione</h1>
 
