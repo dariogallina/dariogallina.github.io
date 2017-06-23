@@ -17,49 +17,55 @@ layout: page
 {% assign total_time = show_time | plus: fade_time | times: n %}
 
 <style>
-  @keyframes image_fade {
-    0% {
-      opacity: 1;
-    }
-    {{ show_time | divided_by: total_time | times: 100 }}% {
-      opacity: 1;
-    }
-    {{ 1.0 | divided_by: n | times: 100 }}% {
-      opacity: 0;
-    }
-    {% assign x = fade_time | divided_by: total_time | times: 100 %}
-    {{ 100 | minus: x }}% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
   .animated img {
     position: absolute;
+    opacity: 0;
     left: 0;
     right: 0;
-    animation-name: image_fade;
-    animation-timing-function: ease-in-out;
-    animation-iteration-count: infinite;
-    animation-duration: {{ total_time }}s;
+    -webkit-transition: opacity 1s ease-in-out;
+       -moz-transition: opacity 1s ease-in-out;
+        -ms-transition: opacity 1s ease-in-out;
+         -o-transition: opacity 1s ease-in-out;
+            transition: opacity 1s ease-in-out;
   }
+
   .animated {
+    position: relative;
+    padding-bottom: 40%;
+  }
+
+  .animated2 {
     position: relative;
     padding-bottom: 40%;
   }
 </style>
 
-
-{% assign i = 0 %}
 <div class="animated">
   {% for image in site.static_files %}
     {% if image.path contains 'slide' %}
-      {% assign i = i | minus: show_time | minus: fade_time %}
-      <img src="{{ site.url }}{{ image.path }}" style="opacity:0;animation-delay:{{ i }}s">
+      <img src="{{ site.url }}{{ image.path }}" class="slide">
     {% endif %}
   {% endfor %}
 </div>
+
+<script>
+  function next_slide()
+  {
+    slides[i].style.opacity = 0;
+
+    slides[(i+1) % n].style.opacity = 1;
+    i = (i+1) % n;
+    setTimeout(next_slide, {{ show_time | plus: fade_time | times: 1000 }});
+  }
+
+  var i = 0;
+  var slides = document.getElementsByClassName("slide");
+  n = slides.length;
+
+  slides[i].style.opacity = 1;
+  setTimeout(next_slide, {{ show_time | times: 1000 }});
+</script>
+
 
 <h1>Introduzione</h1>
 
