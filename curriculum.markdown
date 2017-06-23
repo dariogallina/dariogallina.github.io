@@ -3,7 +3,7 @@ layout: page
 title: Curriculum
 categories: header
 ---
-![logo]({{ site.url }}/images/Logo_home.jpg)
+![logo]({{ site.url }}/images/IMG home page/Logo_home.jpg)
 
 # Curriculum vitae - Presentazione
 
@@ -255,6 +255,6 @@ In ambiente Windows (XP Professional e 7 Pro) lavoro abitualmente con le più co
 
 Workstation Fujitsu Celsius W530 Quad Core Xeon E3-1270v3 3.5 GHz (cache 8 MB) - 24 GB DDR3 RAM ECC - NVIDIA Quadro K2000 2048 MB - 1000 GB Serial ATA III + SSD 128 GB Serial ATA III (6Gb/s) - Win7Pro 64bit; Workstation Fujitsu-Siemens Celsius M460 (Core 2 Quad Q660 2.4 GHz; 4 Gb ddr2 RAM; Hd 500 Gb Serial ATA II; scheda video Nvidia FX 1700 512 Mb) - Monitor LaCie 324. PC portatile Toshiba Satellite M60-146 (Pentium M760 - 2 Gh; 1 Gb Ram; Hd 100 Gb). Fotocamera digitale Nikon D5300 (Nikkor 18-55 AF-S, F. 3,5-5,6; Nikkor AS-F 55-300, F. 4,5-5,6; Sigma 10-20 F. 4-5,6); X-Rite Color Checker Passport. Tavoletta grafica Wacom Intuos2 (formato A4+). Mouse 3D 3DConnexion SpaceNavigator PE. Stampante ink-jet HP 1220C (formato A3+); Stampante laser a colori Xerox ColorQube 8570 (formato A4); Scanner Canon CanoScan N670U (formato A4); Scanner A3 Mustek. Scanner per diapositive Plustek OpticFilm 7300. Disco esterno Verbatim 1,5 Tb; backup online Carbonite.
 
- 
+
 
 Documento aggiornato a: Novembre 2015.
