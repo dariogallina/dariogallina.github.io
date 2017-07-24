@@ -43,18 +43,35 @@ layout: page
 <div class="animated">
   {% for image in site.static_files %}
     {% if image.path contains 'slide' %}
-      <img src="{{ site.url }}{{ image.path }}" class="slide">
+      <img src_data="{{ site.url }}{{ image.path }}" class="slide">
     {% endif %}
   {% endfor %}
 </div>
 
 <script>
+  // checks if a slide is loaded, and, if not, it loads it
+  function load_slide(i)
+  {
+    if (!slides[i].hasAttribute("src"))
+    {
+      slides[i].setAttribute("src", slides[i].getAttribute("src_data"));
+    }
+  }
+
+  // changes the visible slide and loads the still not loaded ones
   function next_slide()
   {
+    // makes the current image fade out
     slides[i].style.opacity = 0;
 
+    // makes the next image fade in
     slides[(i+1) % n].style.opacity = 1;
+
+    // loads the first slide that still needs to be loaded
+    load_slide((i + 2) % n);
+
     i = (i+1) % n;
+    // schedules the next slide change
     setTimeout(next_slide, {{ show_time | plus: fade_time | times: 1000 }});
   }
 
@@ -62,7 +79,14 @@ layout: page
   var slides = document.getElementsByClassName("slide");
   n = slides.length;
 
+  // makes the first image fade in
   slides[i].style.opacity = 1;
+
+  // loads the first and the second image
+  load_slide(i);
+  load_slide((i + 1) % n);
+
+  // stats the slideshow
   setTimeout(next_slide, {{ show_time | times: 1000 }});
 </script>
 
