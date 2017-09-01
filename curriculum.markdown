@@ -27,7 +27,7 @@ Tra le esperienze professionali più significative segnalo che:
 
 -          dal 2000 sono il consulente archeologo incaricato dalla Soprintendenza Archeologica del Veneto e dal Comune di Verona per i restauri dell’anfiteatro Arena.
 
--          2010-11 ho realizzato la ricostruzione virtuale 3D delle mura e le porte di Verona tra età repubblicana e gota [vedi].
+-          2010-11 ho realizzato la ricostruzione virtuale 3D delle mura e le porte di Verona tra età repubblicana e gota [vedi](http://dariogallina.it/3d/verona-citta-romana-e-tardoantica.html).
 
 -          nel 2008/09 ho realizzato la ricostruzione virtuale 3D dell’area archeologica di Castelseprio (Va) [vedi].
 
