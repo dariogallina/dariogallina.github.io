@@ -2,7 +2,7 @@
 layout: page
 title: Nave (Bs), pieve della Mitria
 categories: 2D
-images_prefix: Nave Mitria
+images_prefix: "Nave Mitria"
 ---
 
 Anno 2013.

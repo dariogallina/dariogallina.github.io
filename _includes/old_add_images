@@ -12,10 +12,9 @@
 {%- unless columns -%}
 	{%- assign columns = 2 -%}
 {%- endunless -%}	
+{%- assign almost_stop_index = stop_index | minus: 1 -%}
 
-{% capture newline %}
-{% endcapture %}
-
+<table>
 {%- for image in site.static_files -%}
 	{%- if images_prefix == nil and image.path contains page.images_prefix -%}
 		{%- assign image_path_matches = true -%}
@@ -27,13 +26,23 @@
 	{%- if image_path_matches -%}
 		{%- if start_index <= image_index -%}
 			{%- if stop_index == -1 or image_index < stop_index -%}
-				{%- if current_column == 0 -%}
-					{{ newline }}
+				{% if current_column == 0 %}
+					{% unless no_line %}
+	<tr><th><hr></th></tr>
+					{% endunless %}
+	<tr>
 				{%- endif -%}
-| ![]({{ site.url }}{{ image.path }})
-				{%- assign current_column = current_column | plus: 1 | modulo: columns -%}
+		<th markdown="span">![]({{ site.url }}{{ image.path }})</th>
+				{%- assign current_column = current_column | minus: columns -%}
+				{% if current_column == -1 or image_index == almost_stop_index %}
+	</tr>
+					{%- assign current_column = 0 -%}
+				{%- else -%}
+					{%- assign current_column = current_column | plus: 1 -%}
+				{%- endif -%}
 			{%- endif -%}
 		{%- endif -%}
 		{%- assign image_index = image_index | plus: 1 -%}
 	{%- endif -%}
 {% endfor %}
+</table>
