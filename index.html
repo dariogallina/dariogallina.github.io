@@ -5,16 +5,16 @@
 layout: page
 ---
 
-{% assign n = 0 %}
-{% for image in site.static_files %}
-  {% if image.path contains 'slide' %}
-    {% assign n = n | plus: 1 %}
-  {% endif %}
-{% endfor %}
+{%- assign n = 0 -%}
+{%- for image in site.static_files -%}
+  {%- if image.path contains 'slide' -%}
+    {%- assign n = n | plus: 1 -%}
+  {%- endif -%}
+{%- endfor -%}
 
-{% assign show_time = 2.0 %}
-{% assign fade_time = 1.0 %}
-{% assign total_time = show_time | plus: fade_time | times: n %}
+{%- assign show_time = 2.0 -%}
+{%- assign fade_time = 1.0 -%}
+{%- assign total_time = show_time | plus: fade_time | times: n -%}
 
 <style>
   .animated img {
@@ -41,11 +41,11 @@ layout: page
 </style>
 
 <div class="animated">
-  {% for image in site.static_files %}
-    {% if image.path contains 'slide' %}
+  {%- for image in site.static_files -%}
+    {%- if image.path contains 'slide' -%}
       <img src_data="{{ site.url }}{{ image.path }}" class="slide">
-    {% endif %}
-  {% endfor %}
+    {%- endif -%}
+  {%- endfor -%}
 </div>
 
 <script>
@@ -98,9 +98,9 @@ layout: page
 <hr />
 
 <table>
-  {% for page in site.pages %}
-    {% if page.homepage_image %}
-      {% cycle '<tr>', nil, nil %}
+  {%- for page in site.pages -%}
+    {%- if page.homepage_image -%}
+      {%- cycle '<tr>', nil, nil -%}
       <th>
         <table>
           <tr>
@@ -111,12 +111,12 @@ layout: page
           </tr>
         </table>
       </th>
-      {% capture tr_end %}
-        {% cycle nil, nil, '</tr>' %}
-      {% endcapture %}
-    {% endif %}
-  {% endfor %}
-  {% if tr_end != '</tr>' %}
+      {%- capture tr_end -%}
+        {%- cycle nil, nil, '</tr>' -%}
+      {%- endcapture -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if tr_end != '</tr>' -%}
     </tr>
-  {% endif %}
+  {%- endif -%}
 </table>
