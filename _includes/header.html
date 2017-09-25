@@ -71,11 +71,11 @@
     }
   </script>
   <div class="wrapper">
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
-    {% if page_paths %}
+    {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -89,35 +89,35 @@
         </label>
 
         <div class="trigger">
-          {% assign id = 0 %}
-          {% for path in page_paths %}
-            {% assign my_page = site.pages | where: "path", path | first %}
-            {% if my_page.title %}
-              {% if my_page.categories == 'header' %}
+          {%- assign id = 0 -%}
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+              {%- if my_page.categories == 'header' -%}
                 <div class="dropdown">
-                  {% if my_page.index_of %}
-                    {% assign has_dropdown = 1 %}
-                  {% else %}
-                    {% assign has_dropdown = 0 %}
-                  {% endif %}
+                  {%- if my_page.index_of -%}
+                    {%- assign has_dropdown = 1 -%}
+                  {%- else -%}
+                    {%- assign has_dropdown = 0 -%}
+                  {%- endif -%}
                   <a class="page-link" href="javascript:handle_link('{{ my_page.url }}', {{ has_dropdown }}, 'drop_{{ id }}')">{{ my_page.title }}</a>
                   <div class="dropdown-content" id="drop_{{ id }}">
-                    {% if my_page.index_of %}
-                      {% for p in site.pages %}
-                        {% if p.categories == my_page.index_of %}
+                    {%- if my_page.index_of -%}
+                      {%- for p in site.pages -%}
+                        {%- if p.categories == my_page.index_of -%}
                           <a class="page-link" href="{{ p.url }}">{{ p.title }}</a>
-                        {% endif %}
-                      {% endfor %}
-                    {% endif %}
+                        {%- endif -%}
+                      {%- endfor -%}
+                    {%- endif -%}
                   </div>
                 </div>
-                {% assign id = id | plus: 1 %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
+                {%- assign id = id | plus: 1 -%}
+              {%- endif -%}
+            {%- endif -%}
+          {%- endfor -%}
           <a class="page-link" href="{{ site.url }}/about/">About</a>
         </div>
       </nav>
-    {% endif %}
+    {%- endif -%}
   </div>
 </header>
