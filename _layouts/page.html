@@ -9,9 +9,13 @@ layout: default
 
 <div id="image_viewer_div" class="image_viewer">
 	<div id="image_viewer_bar" class="image_viewer">
-		<a href="javascript:close_image_viewer()" class="image_viewer">X</a>
+		<div id="dummy_div"></div>
+		<p id="image_counter"></p>
+		<a href="javascript:close_image_viewer()" id="image_viewer_close_button" class="image_viewer">✖</a>
 	</div>
+	<div id="prev_image_button" class="image_viewer change_image_button">❮</div>
 	<img id="viewed_image" class="image_viewer">
+	<div id="next_image_button" class="image_viewer change_image_button">❯</div>
 </div>
 
 <style>
@@ -28,8 +32,9 @@ layout: default
 		right: 0px;
 		height: 40px;
 		line-height:40px;
-		text-align: right;
-		background-color: black
+		text-align: center;
+		background-color: black;
+		justify-content: space-between;
 	}
 
 	#image_viewer_div
@@ -41,14 +46,42 @@ layout: default
 		bottom: 0px;
 		background-color: rgba(0, 0, 0, 0.6);
 		align-items: center;
-		justify-contents: center;
+		justify-content: space-evenly;
 	}
 
 	#viewed_image
 	{
-		margin: auto;
 		max-width: 95%;
 		max-height: 95%;
+	}
+
+	#image_viewer_close_button
+	{
+		color: white;
+		width: 40px;
+	}
+
+	.change_image_button
+	{
+		color: white;
+		padding: 20px;
+		font-size: 40px;
+	}
+
+	.change_image_button:hover
+	{
+		color: silver;
+	}	
+
+	#image_counter
+	{
+		color: white;
+	}
+
+	#dummy_div
+	{
+		width: 40px;
+		height: 40px;
 	}
 
 </style>
@@ -71,7 +104,8 @@ layout: default
 		var image_viewer_elements = document.getElementsByClassName("image_viewer");
 		for (var i = 0; i < image_viewer_elements.length; i++)
 		{
-			if (image_viewer_elements[i].id == "image_viewer_div")
+			if (image_viewer_elements[i].id == "image_viewer_div" ||
+				image_viewer_elements[i].id == "image_viewer_bar")
 			{
 				image_viewer_elements[i].style.display = "flex";
 			}
@@ -81,7 +115,16 @@ layout: default
 			};
 		};
 		var viewed_image = document.getElementById("viewed_image");
+		for (var i = 0; i < images.length; i++)
+		{
+			if (images[i].src = image.src)
+			{
+				image_index = i;
+				break;
+			}
+		}
 		viewed_image.src = image.src;
+		document.getElementById("image_counter").innerHTML = image_index+1 + " / " + images.length;
 	};
 
 	function close_image_viewer()
@@ -92,8 +135,35 @@ layout: default
 			image_viewer_elements[i].style.display = "none";
 		};
 	};
+
+	function modulus(x, n)
+	{
+		var result = x%n;
+		while (result < 0)
+		{
+			result += n;
+		}
+		return result;
+	}
+
+	function next_image()
+	{
+		var viewed_image = document.getElementById("viewed_image");
+		image_index = modulus(image_index + 1, images.length);
+		viewed_image.src = images[image_index].src;
+		document.getElementById("image_counter").innerHTML = image_index+1 + " / " + images.length;
+	}
+
+	function prev_image()
+	{
+		var viewed_image = document.getElementById("viewed_image");
+		image_index = modulus(image_index - 1, images.length);
+		viewed_image.src = images[image_index].src;
+		document.getElementById("image_counter").innerHTML = image_index+1 + " / " + images.length;
+	}
 	
 	var images = document.getElementsByClassName("image");
+	var image_index;
 	
 	for (var i = 0; i < images.length; i++)
 	{
@@ -104,6 +174,12 @@ layout: default
 			open_image_viewer(this);
 		});
 	};
+
+	document.getElementById("next_image_button")
+		.addEventListener("click", next_image);
+	document.getElementById("prev_image_button")
+		.addEventListener("click", prev_image);
+
 
 </script>
 
