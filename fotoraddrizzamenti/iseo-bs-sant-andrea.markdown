@@ -2,7 +2,7 @@
 layout: page
 title: Fotoraddrizzamenti - Iseo (Bs), Sant'Andrea
 categories: fotoraddrizzamenti
-images_prefix: Iseo_
+images_prefix: Iseo_SantAndrea
 ---
 
 Anno: 2003.

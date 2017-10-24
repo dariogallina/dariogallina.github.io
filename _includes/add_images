@@ -13,6 +13,13 @@
 	{%- assign columns = 2 -%}
 {%- endunless -%}	
 
+<style>
+td
+{
+	width: {{ 100 | divided_by: columns }}%;
+}
+</style>
+
 {% capture newline %}
 {% endcapture %}
 
@@ -30,7 +37,7 @@
 				{%- if current_column == 0 -%}
 					{{ newline }}
 				{%- endif -%}
-| ![]({{ site.url }}{{ image.path }})
+| ![]({{ site.url }}{{ image.path }}){: .image}
 				{%- assign current_column = current_column | plus: 1 | modulo: columns -%}
 			{%- endif -%}
 		{%- endif -%}
