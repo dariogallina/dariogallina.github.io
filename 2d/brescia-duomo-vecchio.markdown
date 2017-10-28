@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brescia, Duomo Vecchio
-categories: 2D
+categories: 2d
 images_prefix: Bs_DuomoVecchio_
 ---
 

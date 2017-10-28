@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brescia, San Giorgio
-categories: 2D
+categories: 2d
 images_prefix: SanGiorgio_pannello
 ---
 

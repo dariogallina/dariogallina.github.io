@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Catasti storici
-categories: 2D
+categories: 2d
 images_prefix: Vione
 ---
 Per la ricostruzione e comprensione degli assetti territoriali storici, del paesaggio, e della toponomastica, una fonte prioritaria è quella dei catasti ottocenteschi. In particolare, il Catasto di età napoleonica con il suo insieme di Mappe e Sommarioni (e di molti altri registri a torto trascurati) fornisce una notevole e interessantissima congerie di dati.

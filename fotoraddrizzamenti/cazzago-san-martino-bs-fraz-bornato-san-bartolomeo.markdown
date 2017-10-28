@@ -11,4 +11,5 @@ Committente: U.S.P.A.A.A.; Associazione SconfinArte.
 
 Fotografie: Nikon Coolpix 990 - Numero scatti: 10 - Scala 1:20 - Risoluzione: 250 ppi.
 
+{% assign images_category = "fotoraddrizzamenti" %}
 {% include add_images %}

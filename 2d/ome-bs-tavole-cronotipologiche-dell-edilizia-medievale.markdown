@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ome, edilizia medievale
-categories: 2D
+categories: 2d
 images_prefix: Ome_
 ---
 

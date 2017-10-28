@@ -2,7 +2,7 @@
 layout: page
 title: 2D
 categories: header
-index_of: 2D
+index_of: 2d
 homepage_image: 2D_home.jpg
 ---
 
