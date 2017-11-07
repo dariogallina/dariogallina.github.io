@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rodengo Saiano (Bs), San Salvatore
-categories: 2D
+categories: 2d
 images_prefix: Saiano_SanSalvatore_Tav
 ---
 

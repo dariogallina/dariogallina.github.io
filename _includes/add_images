@@ -31,6 +31,11 @@ td
 	{%- else -%}
 		{%- assign image_path_matches = false -%}
 	{%- endif -%}
+	{%- if images_category -%}
+		{%- unless image.path contains images_category -%}
+			{%- assign image_path_matches = false -%}
+		{%- endunless -%}
+	{%- endif -%}
 	{%- if image_path_matches -%}
 		{%- if start_index <= image_index -%}
 			{%- if stop_index == -1 or image_index < stop_index -%}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Abbazia di Novalesa (To)
-categories: 2D
+categories: 2d
 images_prefix: Novalesa_
 ---
 

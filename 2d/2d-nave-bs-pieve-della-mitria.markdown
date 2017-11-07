@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nave (Bs), pieve della Mitria
-categories: 2D
+categories: 2d
 images_prefix: "Nave Mitria"
 ---
 
