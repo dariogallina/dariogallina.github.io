@@ -27,23 +27,23 @@ Tra le esperienze professionali più significative segnalo che:
 
 -          dal 2000 sono il consulente archeologo incaricato dalla Soprintendenza Archeologica del Veneto e dal Comune di Verona per i restauri dell’anfiteatro Arena.
 
--          2010-11 ho realizzato la ricostruzione virtuale 3D delle mura e le porte di Verona tra età repubblicana e gota [vedi](http://dariogallina.it/3d/verona-citta-romana-e-tardoantica.html).
+-          2010-11 ho realizzato la ricostruzione virtuale 3D delle mura e le porte di Verona tra età repubblicana e gota \[[vedi](http://dariogallina.it/3d/verona-citta-romana-e-tardoantica.html)\].
 
--          nel 2008/09 ho realizzato la ricostruzione virtuale 3D dell’area archeologica di Castelseprio (Va) [vedi].
+-          nel 2008/09 ho realizzato la ricostruzione virtuale 3D dell’area archeologica di Castelseprio (Va) \[[vedi](http://dariogallina.it/3d/castelseprio-va.html)\].
 
--          nel 2007/08 ho eseguito l’analisi stratigrafica del Castello di Bellaguarda di Tovo di S. Agata (So) [vedi].
+-          nel 2007/08 ho eseguito l’analisi stratigrafica del Castello di Bellaguarda di Tovo di S. Agata (So) \[[vedi](http://dariogallina.it/analisi-stratigrafiche/analisi-tovo-sant-agata-so.html)\].
 
--          nel 2006/08 ho realizzato la ricostruzione virtuale 3D del Capitolium di Verona [vedi].
+-          nel 2006/08 ho realizzato la ricostruzione virtuale 3D del Capitolium di Verona \[[vedi](http://dariogallina.it/3d/verona-capitolium.html)\].
 
--          nel 2007/08 ho realizzato la ricostruzione virtuale 3D delle chiese medievali del monastero di San Benedetto Polirone (Mn) [vedi].
+-          nel 2007/08 ho realizzato la ricostruzione virtuale 3D delle chiese medievali del monastero di San Benedetto Polirone (Mn) \[[vedi](http://dariogallina.it/3d/san-benedetto-po-mn.html)\].
 
--          nel 2005 ho realizzato la ricostruzione virtuale 3D dell’abbazia di Leno (Bs) [vedi].
+-          nel 2005 ho realizzato la ricostruzione virtuale 3D dell’abbazia di Leno (Bs) \[[vedi](http://dariogallina.it/3d/leno-bs-s-benedetto-ad-leones.html)\].
 
--          nel 2003 ho eseguito l’analisi stratigrafica della cascina - monastero di San Giovanni di Castelseprio (Va) [vedi].
+-          nel 2003 ho eseguito l’analisi stratigrafica della cascina - monastero di San Giovanni di Castelseprio (Va) \[[vedi](http://dariogallina.it/analisi-stratigrafiche/castelseprio-va-cascina-monastero-san-giovanni.html)\].
 
--          nel 2003 ho elaborato la valutazione dell’impatto archeologico per la realizzazione del Metrobus di Brescia [vedi].
+-          nel 2003 ho elaborato la valutazione dell’impatto archeologico per la realizzazione del Metrobus di Brescia \[[vedi](http://dariogallina.it/2d/brescia-metrobus-studio-del-rischio-archeologico.html)\].
 
--          pubblico con una certa regolarità saggi e articoli in sedi editoriali specializzate [vedi].
+-          pubblico con una certa regolarità saggi e articoli in sedi editoriali specializzate \[[vedi](http://dariogallina.it/pubblicazioni-esteso.html)\].
 
 # Dati anagrafici e fiscali
 
@@ -57,7 +57,7 @@ Laurea in Lettere Classiche ad Indirizzo Archeologico, in data 28/06/1995, con t
 
 Vincitore nel gennaio 2001, con punteggio di 120/120, del concorso per l’ammissione al Dottorato di Ricerca in Archeologia Medievale (XVI ciclo) presso l’Università degli Studi dell’Aquila. La tesi di dottorato, discussa e approvata il 27/1/2005, ha avuto come tema L’edilizia medievale in Franciacorta (Bs) tra XI e XIV secolo.
 
-Socio della Società degli Archeologi Medievisti Italiani (SAMI), tessera n. 59.
+Socio della Società degli Archeologi Medievisti Italiani ([SAMI](https://www.facebook.com/SamiDirettivo)), tessera n. 59.
 
 # Attività accademica e didattica
 
@@ -97,7 +97,7 @@ A.A. 2003/04, Università Cattolica di Brescia, Corso di Laurea in Lettere. Corr
 
 A.A. 2003/04, Università I.U.A.V. di Venezia, Corso di Laurea in Storia e Conservazione dei Beni Architettonici e Ambientali, relatore esterno della tesi Approvvigionamento e smaltimento delle acque nell’Anfiteatro romano di Verona di I. de Beni e J. Finco.
 
-Dal 2003, incaricato - unitamente al prof. Marco Sannazaro - per le attività del Laboratorio di Archeologia Medievale dell’Università Cattolica di Brescia, con i seguenti programmi: A.A. 2003/04: Saggi di analisi stratigrafica dell’edilizia medievale di Brescia e del territorio (15 ore); A.A. 2004/05: Saggi di analisi stratigrafica in contrada S. Chiara, Brescia; A.A. 2005/06 e 2006/07 (18 ore): La canonica di San Bartolomeo a Brescia: analisi stratigrafica e ricostruzione delle fasi medievali [vedi]; A.A. 2007/08 (18 ore): L’edilizia bassomedievale sulle sponde del Sebino; A.A. 2008/09 (20 ore): Analisi di contesti medievali del centro storico di Brescia. A.A. 2009/10 (18 ore): Analisi di contesti medievali del centro storico di Brescia.
+Dal 2003, incaricato - unitamente al prof. Marco Sannazaro - per le attività del Laboratorio di Archeologia Medievale dell’Università Cattolica di Brescia, con i seguenti programmi: A.A. 2003/04: Saggi di analisi stratigrafica dell’edilizia medievale di Brescia e del territorio (15 ore); A.A. 2004/05: Saggi di analisi stratigrafica in contrada S. Chiara, Brescia; A.A. 2005/06 e 2006/07 (18 ore): La canonica di San Bartolomeo a Brescia: analisi stratigrafica e ricostruzione delle fasi medievali \[[vedi](http://dariogallina.it/analisi-stratigrafiche/brescia-san-bartolomeo.html)\]; A.A. 2007/08 (18 ore): L’edilizia bassomedievale sulle sponde del Sebino; A.A. 2008/09 (20 ore): Analisi di contesti medievali del centro storico di Brescia. A.A. 2009/10 (18 ore): Analisi di contesti medievali del centro storico di Brescia.
 
 A.A. 2002/03, Milano, Università Cattolica, S.S.I.S. - classe di concorso A061, incarico per l’insegnamento di Archeologia e Arte Antica (10 ore).
 
@@ -125,23 +125,23 @@ A partire dall’A.A. 1995/96, nomina a Cultore della Materia presso l’insegna
 
 2011 - Salò (Bs), via Cure del Lino, 24 (committ.: Studio Gaidoni, Brescia). Verona, Anfiteatro Arena, analisi dei cunicoli e degli ambienti sotterranei (committ.: Comune di Verona).
 
-2010 - Piacenza, cripta e chiesa di Santa Margherita (Civici Musei di Piacenza, coord. Anna Carini) [vedi]; Milano, Duomo, Soglia della cattedrale di Santa Tecla (committ.: Università Cattolica, Milano); Lenno (Co), chiesa di Santo Stefano (committ.: Università Cattolica di Milano, prof. M. Rossi).
+2010 - Piacenza, cripta e chiesa di Santa Margherita (Civici Musei di Piacenza, coord. Anna Carini) \[[vedi](http://dariogallina.it/3d/piacenza-santa-margherita.html)\]; Milano, Duomo, Soglia della cattedrale di Santa Tecla (committ.: Università Cattolica, Milano); Lenno (Co), chiesa di Santo Stefano (committ.: Università Cattolica di Milano, prof. M. Rossi).
 
-2009 – Bergamo, via Porta Dipinta, area dell’ex Palazzo Moroni – fotoraddrizzamenti ed analisi stratigrafica (committ.: arch. Leonardo Togni); Verona, Anfiteatro Arena, analisi degli ambienti ipogei; Brescia, chiesa di San Giorgio, fotoraddrizzamenti e analisi stratigrafica (committ.: Provincia di Brescia) [vedi]; Verona, piazza Arditi d’Italia - fotoraddrizzamenti delle strutture di età imperiale (committ.: Saccomani cav. Attilio s.r.l.).
+2009 – Bergamo, via Porta Dipinta, area dell’ex Palazzo Moroni – fotoraddrizzamenti ed analisi stratigrafica (committ.: arch. Leonardo Togni); Verona, Anfiteatro Arena, analisi degli ambienti ipogei; Brescia, chiesa di San Giorgio, fotoraddrizzamenti e analisi stratigrafica (committ.: Provincia di Brescia) \[[vedi](http://dariogallina.it/3d/brescia-san-giorgio.html)\]; Verona, piazza Arditi d’Italia - fotoraddrizzamenti delle strutture di età imperiale (committ.: Saccomani cav. Attilio s.r.l.).
 
-2008 – Brescia, ex Lazzaretto di San Bartolomeo, fotoraddrizzamenti ed analisi stratigrafica – in collaborazione con M. Dotti (committ.: Parrocchia di San Bartolomeo) [vedi]; Adrara San Martino (Bg), loc. Canzanica – Fotoraddrizzamenti e analisi stratigrafica del complesso di Sant’Alessandro (committ.: L’Oasi del Basso Sebino Onlus); Montichiari (Bs), chiesa di San Giorgio – fotoraddrizzamenti (committ.: Gruppo Archeologico Monteclarense) [vedi].
+2008 – Brescia, ex Lazzaretto di San Bartolomeo, fotoraddrizzamenti ed analisi stratigrafica – in collaborazione con M. Dotti (committ.: Parrocchia di San Bartolomeo) \[[vedi](http://dariogallina.it/analisi-stratigrafiche/brescia-san-bartolomeo.html)\]; Adrara San Martino (Bg), loc. Canzanica – Fotoraddrizzamenti e analisi stratigrafica del complesso di Sant’Alessandro (committ.: L’Oasi del Basso Sebino Onlus); Montichiari (Bs), chiesa di San Giorgio – fotoraddrizzamenti (committ.: Gruppo Archeologico Monteclarense) \[[vedi](http://dariogallina.it/fotoraddrizzamenti/montichiari-bs-san-giorgio.html)\].
 
-2007 – Sale Marasino (Bs), Canonica, fotoraddrizzamenti ed analisi stratigrafica (committ.: Parrocchia di Sale Marasino); Leno (Bs), chiesa dei SS. Nazaro e Celso – fotoraddrizzamenti (committ.: Fondazione Dominato Leonense); Tovo di Sant’Agata (So), analisi stratigrafica del castello di Bellaguarda (committ.: Comune di Tovo di Sant’Agata) [vedi].
+2007 – Sale Marasino (Bs), Canonica, fotoraddrizzamenti ed analisi stratigrafica (committ.: Parrocchia di Sale Marasino); Leno (Bs), chiesa dei SS. Nazaro e Celso – fotoraddrizzamenti (committ.: Fondazione Dominato Leonense); Tovo di Sant’Agata (So), analisi stratigrafica del castello di Bellaguarda (committ.: Comune di Tovo di Sant’Agata) \[[vedi](http://dariogallina.it/analisi-stratigrafiche/analisi-tovo-sant-agata-so.html)\].
 
-2006 – Brescia, Capitolium, cella ovest: fotoraddrizzamento degli affreschi del santuario repubblicano (committ.: Musei Civici di Brescia) [vedi].
+2006 – Brescia, Capitolium, cella ovest: fotoraddrizzamento degli affreschi del santuario repubblicano (committ.: Musei Civici di Brescia) \[[vedi](http://dariogallina.it/fotoraddrizzamenti/brescia-capitolium-repubblicano.html)\].
 
-2005 - Verona, anfiteatro Arena: analisi archeologica degli arcovoli X-XI-XII-XIII; arcovoli LXXII-I-II-III; arcovoli XLI-XLII-XLIII-XLIV-XLV-XLVI (committ.: Comune di Verona); Calvisano (Bs), chiesa di San Michele - fotoraddrizzamento (committ.: arch. G. Turini) [vedi]; Brescia, Palazzo del Broletto, ala sud - sottotetti, fotoraddrizzamento, in collaborazione con il fotografo Mario Brogiolo (committ.: Comune di Brescia) [vedi]; Santa Maria di Lucedio (Vc), abbazia - fotoraddrizzamenti (committ.: Università del Piemonte Orientale, prof.ssa G. Cantino Wataghin) [vedi]; Cazzago San Martino, fraz. Bornato, pieve di San Bartolomeo - fotoraddrizzamento del prospetto N (committ.: Associazione SconfinArte) [vedi].
+2005 - Verona, anfiteatro Arena: analisi archeologica degli arcovoli X-XI-XII-XIII; arcovoli LXXII-I-II-III; arcovoli XLI-XLII-XLIII-XLIV-XLV-XLVI (committ.: Comune di Verona); Calvisano (Bs), chiesa di San Michele - fotoraddrizzamento (committ.: arch. G. Turini) \[[vedi](http://dariogallina.it/fotoraddrizzamenti/calvisano-bs-san-michele.html)\]; Brescia, Palazzo del Broletto, ala sud - sottotetti, fotoraddrizzamento, in collaborazione con il fotografo Mario Brogiolo (committ.: Comune di Brescia) \[[vedi](http://dariogallina.it/fotoraddrizzamenti/brescia-palazzo-del-broletto.html)\]; Santa Maria di Lucedio (Vc), abbazia - fotoraddrizzamenti (committ.: Università del Piemonte Orientale, prof.ssa G. Cantino Wataghin) \[[vedi](http://dariogallina.it/fotoraddrizzamenti/lucedio-vc-santa-maria-di-lucedio.html)\]; Cazzago San Martino, fraz. Bornato, pieve di San Bartolomeo - fotoraddrizzamento del prospetto N (committ.: Associazione SconfinArte) \[[vedi](http://dariogallina.it/fotoraddrizzamenti/cazzago-san-martino-bs-fraz-bornato-san-bartolomeo.html)\].
 
 2004 – Sant’Ambrogio di Valpolicella (Vr), Villa Bassani; Verona, anfiteatro Arena: analisi archeologica degli arcovoli XIV-XV-XVI-XVII; arcovoli XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX (committ.: Comune di Verona); Borgoratto Mormorolo (Pv): pieve dei SS. Cornelio e Cipriano.
 
-2003 – Iseo (Bs), Pieve di S. Andrea, in collaborazione con U.S.P.A.A.A. [vedi]; Castelseprio (Va), Cascina-monastero San Giovanni (committ.: Soprintendenza Archeologica della Lombardia); Verona, anfiteatro Arena: analisi archeologica degli arcovoli IV-V-VI-VII (committ.: Comune di Verona); Brescia, Duomo Vecchio, sottotetti (committ.: prof. M. Rossi, Università Cattolica di Brescia) [vedi].
+2003 – Iseo (Bs), Pieve di S. Andrea, in collaborazione con [U.S.P.A.A.A.](http://www.somsiseo.it/uspaaa.php) \[[vedi](http://dariogallina.it/fotoraddrizzamenti/iseo-bs-sant-andrea.html)\]; Castelseprio (Va), Cascina-monastero San Giovanni (committ.: Soprintendenza Archeologica della Lombardia); Verona, anfiteatro Arena: analisi archeologica degli arcovoli IV-V-VI-VII (committ.: Comune di Verona); Brescia, Duomo Vecchio, sottotetti (committ.: prof. M. Rossi, Università Cattolica di Brescia) \[[vedi](http://dariogallina.it/2d/brescia-duomo-vecchio.html)\].
 
-2002 - Ome, Canonica (in collaborazione con Andrea Breda e Angelo Valsecchi); Brescia, Duomo Vecchio, Cripta di San Filastrio (committ.: prof. M. Rossi, Università Cattolica di Brescia); Ghedi (Bs), fortificazioni bassomedievali (committ.: Comune di Ghedi); Verona, fraz. Montorio, strutture romane (committ.: Soprintendenza Archeologica del Veneto); San Benedetto Po (Mn), San Benedetto Polirone, Sala Capitolare e braccio W del chiostro di San Benedetto (committ.: prof.ssa S. Lusuardi Siena, Università Cattolica di Milano);  Acquanegra sul Chiese (Mn), chiesa dell’abbazia di S. Tommaso di Acquanegra (committ.: prof. P. Piva, Università degli Studi di Milano); Nave (Bs), Pieve della Mitria: casamenta plebis, come collaboratore esterno dell’Istituto per Geometri “Tartaglia” di Brescia [vedi]; Verona, anfiteatro Arena, analisi archeologica degli arcovoli L-LI-LII-LIII-LIV (committ.: Soprintendenza Archeologica del Veneto).
+2002 - Ome, Canonica (in collaborazione con Andrea Breda e Angelo Valsecchi); Brescia, Duomo Vecchio, Cripta di San Filastrio (committ.: prof. M. Rossi, Università Cattolica di Brescia); Ghedi (Bs), fortificazioni bassomedievali (committ.: Comune di Ghedi); Verona, fraz. Montorio, strutture romane (committ.: Soprintendenza Archeologica del Veneto); San Benedetto Po (Mn), San Benedetto Polirone, Sala Capitolare e braccio W del chiostro di San Benedetto (committ.: prof.ssa S. Lusuardi Siena, Università Cattolica di Milano);  Acquanegra sul Chiese (Mn), chiesa dell’abbazia di S. Tommaso di Acquanegra (committ.: prof. P. Piva, Università degli Studi di Milano); Nave (Bs), Pieve della Mitria: casamenta plebis, come collaboratore esterno dell’Istituto per Geometri “Tartaglia” di Brescia \[[vedi](http://dariogallina.it/2d/2d-nave-bs-pieve-della-mitria.html)\]; Verona, anfiteatro Arena, analisi archeologica degli arcovoli L-LI-LII-LIII-LIV (committ.: Soprintendenza Archeologica del Veneto).
 
 2001 – Sant’Ambrogio di Valpolicella (Vr), Villa Bassani (committ.: Studio Castellani, Vr).
 
@@ -153,29 +153,29 @@ A partire dall’A.A. 1995/96, nomina a Cultore della Materia presso l’insegna
 
 2015 - Verona - Brevi filmati con ricostruzioni 3D delle mura e dell’anfiteatro (committ.: Archeoclub). Milano, Palazzo Litta - Ricostruzione della domus (committ.: Direzione Regionale per i Beni Culturali e Paesaggistici della Lombardia - dott.sse B. Bruno e A.M. Fedeli).
 
-2013 - Nave (Bs), Pieve della Mitria - Progetto archeologico ed elaborazione grafica di pannelli per lo Spazio Informativo presso la Pieve, in collaborazione con R. Pareccini (committ. Associazione Amici Antica Pieve della Mitria Onlus; coord.: A. Breda). [vedi]
+2013 - Nave (Bs), Pieve della Mitria - Progetto archeologico ed elaborazione grafica di pannelli per lo Spazio Informativo presso la Pieve, in collaborazione con R. Pareccini (committ. [Associazione Amici Antica Pieve della Mitria Onlus](http://www.pievemitria.org/html/frame.html); coord.: A. Breda). \[[vedi](http://dariogallina.it/2d/2d-nave-bs-pieve-della-mitria.html)\]
 
-2010/11 - Verona, Museo di Castelvecchio - Soprintendenza ai Beni Archeologici del Veneto (coord.: Giuliana Cavalieri Manasse): ricostruzione 3D delle mura e dell’impianto urbano dall’età repubblicana alla tarda antichità [vedi].
+2010/11 - Verona, Museo di Castelvecchio - Soprintendenza ai Beni Archeologici del Veneto (coord.: Giuliana Cavalieri Manasse): ricostruzione 3D delle mura e dell’impianto urbano dall’età repubblicana alla tarda antichità \[[vedi](http://dariogallina.it/3d/verona-citta-romana-e-tardoantica.html)\].
 
-2010 - Piacenza, cripta e chiesa di Santa Margherita (Civici Musei di Piacenza, coord.: Anna Carini) [vedi].
+2010 - Piacenza, cripta e chiesa di Santa Margherita (Civici Musei di Piacenza, coord.: Anna Carini) \[[vedi](http://dariogallina.it/3d/piacenza-santa-margherita.html)\].
 
-2009/10 - Acquanegra sul Chiese (Mn), chiesa dell’abbazia di S. Tommaso di Acquanegra (Università di Milano -  prof. Paolo Piva); fotoraddrizzamenti e ricostruzione virtuale 3D - in collaborazione con Andrea Breda; Brescia, chiesa di San Giorgio, fotoraddrizzamenti e ricostruzione virtuale 3D delle fasi medievali (committ.: Studio Bozzetti - Brescia, Provincia di Brescia) [vedi].
+2009/10 - Acquanegra sul Chiese (Mn), chiesa dell’abbazia di S. Tommaso di Acquanegra (Università di Milano -  prof. Paolo Piva); fotoraddrizzamenti e ricostruzione virtuale 3D - in collaborazione con Andrea Breda; Brescia, chiesa di San Giorgio, fotoraddrizzamenti e ricostruzione virtuale 3D delle fasi medievali (committ.: Studio Bozzetti - Brescia, Provincia di Brescia) \[[vedi](http://dariogallina.it/3d/brescia-san-giorgio.html)\].
 
-2007/08 - Castelseprio (Va), colle, area archeologica ed edifici principali medievali (committ.: Soprintendenza ai Beni Archeologici della Lombardia) [vedi].
+2007/08 - Castelseprio (Va), colle, area archeologica ed edifici principali medievali (committ.: Soprintendenza ai Beni Archeologici della Lombardia) \[[vedi](http://dariogallina.it/3d/castelseprio-va.html)\].
 
-2007 - Toscolano Maderno (Bs), valle delle Cartiere – Cartiera di Maina Superiore, in collaborazione con Lisa Cervigni e Marco Rosini (committ.: Stalker Pr., Toscolano Maderno) – si vd. il DVD La Valle delle Cartiere. La storia della carta nella valle del Toscolano, Stalker Multimedia 2007 [vedi]; San Benedetto Po, monastero di San Benedetto Polirone – fase di XII secolo (committ.: Comune di San Benedetto Po) – si vd. il DVD Tra Po e Lirone. Un film di Paolo Chiodarelli, Mantova, S.A.P. 2008 [vedi] .
+2007 - Toscolano Maderno (Bs), valle delle Cartiere – Cartiera di Maina Superiore, in collaborazione con Lisa Cervigni e Marco Rosini (committ.: Stalker Pr., Toscolano Maderno) – si vd. il DVD La Valle delle Cartiere. La storia della carta nella valle del Toscolano, Stalker Multimedia 2007 \[[vedi](http://dariogallina.it/3d/toscolano-maderno-bs-valle-delle-cartiere.html)\]; San Benedetto Po, monastero di San Benedetto Polirone – fase di XII secolo (committ.: Comune di San Benedetto Po) – si vd. il DVD Tra Po e Lirone. Un film di Paolo Chiodarelli, Mantova, S.A.P. 2008 \[[vedi](http://dariogallina.it/3d/san-benedetto-po-mn.html)\] .
 
-2006 – Cazzago San Martino (Bs), fraz. Bornato, pieve di San Bartolomeo sulla base dei risultati dello scavo archeologico (committ.: Comune di Cazzago San Martino, Bs) [vedi]; Milano, chiesa di San Simpliciano (committ.: prof. Marco Sannazaro, Università Cattolica di Brescia); Milano, Chiesa del Santo Sepolcro (committ.: L.C. Schiavi, Università di Pavia) [vedi].
+2006 – Cazzago San Martino (Bs), fraz. Bornato, pieve di San Bartolomeo sulla base dei risultati dello scavo archeologico (committ.: Comune di Cazzago San Martino, Bs) \[[vedi](http://dariogallina.it/3d/cazzago-s-martino-bs-fraz-bornato-s-bartolomeo.html)\]; Milano, chiesa di San Simpliciano (committ.: prof. Marco Sannazaro, Università Cattolica di Brescia); Milano, Chiesa del Santo Sepolcro (committ.: L.C. Schiavi, Università di Pavia) \[[vedi](http://dariogallina.it/3d/milano-santo-sepolcro.html)\].
 
-2005/08 - Capitolium di Verona (committ. Accademia di Agricoltura, Scienze, Lettere ed Arti di Verona; direzione scientifica: Soprintendenza ai Beni Archeologici del Veneto, dott.ssa G. Cavalieri Manasse) [vedi].
+2005/08 - Capitolium di Verona (committ. Accademia di Agricoltura, Scienze, Lettere ed Arti di Verona; direzione scientifica: Soprintendenza ai Beni Archeologici del Veneto, dott.ssa G. Cavalieri Manasse) \[[vedi](http://dariogallina.it/3d/verona-capitolium.html)\].
 
-2005 - Ricostruzione virtuale 3D e filmato digitale delle diverse fasi della chiesa dell’abbazia di Leno (Bs) per la mostra L’abbazia Leonense. Mostra archeologica e ricostruzione virtuale della chiesa monastica - Leno, Villa Badia, ottobre-novembre 2005 (committ.: Fondazione Dominato Leonense, direz. scientifica: Andrea Breda) [vedi].
+2005 - Ricostruzione virtuale 3D e filmato digitale delle diverse fasi della chiesa dell’abbazia di Leno (Bs) per la mostra L’abbazia Leonense. Mostra archeologica e ricostruzione virtuale della chiesa monastica - Leno, Villa Badia, ottobre-novembre 2005 (committ.: Fondazione Dominato Leonense, direz. scientifica: Andrea Breda) \[[vedi](http://dariogallina.it/3d/leno-bs-s-benedetto-ad-leones.html)\].
 
 # Studi di valutazione del rischio archeologico
 
-2012 – Comuni di Edolo, Sonico, Malonno (Bs): opere di collettamento e depurazione [vedi]; Brescia, via Piamarta 13 (committ.: ing. D. Samuelli).
+2012 – Comuni di Edolo, Sonico, Malonno (Bs): opere di collettamento e depurazione \[[vedi](http://dariogallina.it/2d/55-catasti-storici.html)\]; Brescia, via Piamarta 13 (committ.: ing. D. Samuelli).
 
-2003 – Studio di valutazione dell’impatto archeologico per la realizzazione del Metrobus di Brescia (committ.: Land s.r.l e Gruppo Astaldi, Roma) [vedi].
+2003 – Studio di valutazione dell’impatto archeologico per la realizzazione del Metrobus di Brescia (committ.: Land s.r.l e Gruppo Astaldi, Roma) \[[vedi](http://dariogallina.it/2d/brescia-metrobus-studio-del-rischio-archeologico.html)\].
 
 # Collaborazioni a scavi archeologici
 
@@ -183,7 +183,7 @@ A partire dall’A.A. 1995/96, nomina a Cultore della Materia presso l’insegna
 
 # Scavi archeologici condotti su affidamento
 
-2014 - Verona, Teatro Romano, casa Fontana - in collaborazione con A. Crosato (committ.: ditta Operes; Comune di Verona); 2000 - Rodengo Saiano (Bs), ex parrocchiale di San Salvatore a Saiano. Scavo pluristratificato [vedi]; 1999 - Coccaglio (Bs). Castello ricetto bassomedievale; 1999 - Chiari (Bs), saggi nell’area dell’Ex Conventino; 1998 - Sale Marasino (Bs). Area plebana e campanile di S. Zenone; 1998 - Urago d’Oglio (Bs), località Castellaro. Necropoli altomedievale; 1998 - Ospitaletto (Bs), fraz. Lovernato, pieve di S. Maria; 1997 - Brescia, via delle Battaglie, Palazzo Calini ai Fiumi. Mura del XII secolo; 1997 - Coccaglio (Bs). Saggi di scavo presso la pieve di S. Maria; 1995 - Brescia, corso Magenta, ex chiesa di S. Barnaba, saggi di scavo nella zona absidale.
+2014 - Verona, Teatro Romano, casa Fontana - in collaborazione con A. Crosato (committ.: ditta Operes; Comune di Verona); 2000 - Rodengo Saiano (Bs), ex parrocchiale di San Salvatore a Saiano. Scavo pluristratificato \[[vedi](http://dariogallina.it/2d/rodengo-saiano-bs-san-salvatore.html)\]; 1999 - Coccaglio (Bs). Castello ricetto bassomedievale; 1999 - Chiari (Bs), saggi nell’area dell’Ex Conventino; 1998 - Sale Marasino (Bs). Area plebana e campanile di S. Zenone; 1998 - Urago d’Oglio (Bs), località Castellaro. Necropoli altomedievale; 1998 - Ospitaletto (Bs), fraz. Lovernato, pieve di S. Maria; 1997 - Brescia, via delle Battaglie, Palazzo Calini ai Fiumi. Mura del XII secolo; 1997 - Coccaglio (Bs). Saggi di scavo presso la pieve di S. Maria; 1995 - Brescia, corso Magenta, ex chiesa di S. Barnaba, saggi di scavo nella zona absidale.
 
 # Attività di ricerca
 
@@ -191,7 +191,7 @@ A partire dall’A.A. 1995/96, nomina a Cultore della Materia presso l’insegna
 
 2004/06 - Elaborazione grafica 2D delle emergenze archeologiche nell’area del Capitolium di Verona (committ.: Soprintendenza Archeologica del Veneto, dott.ssa G. Cavalieri Manasse).
 
-2003/04 - Ricostruzione grafica 2D del materiale architettonico altomedievale dell’abbazia della Novalesa (committ.: Comune di Torino / Università di Vercelli, dott.ssa S. Uggè). [vedi]
+2003/04 - Ricostruzione grafica 2D del materiale architettonico altomedievale dell’abbazia della Novalesa (committ.: Comune di Torino / Università di Vercelli, dott.ssa S. Uggè). \[[vedi](http://dariogallina.it/2d/abbazia-di-novalesa-to-frammenti-altomedievali.html)\]
 
 2002 – Realizzazione della cartografia tematica archeologica per la Guida del Museo di Manerbio (Bs).
 
@@ -209,13 +209,13 @@ Marzo 2000 - In collaborazione con l’arch. Sabina Bocconcello, redazione dei p
 
 # Pubblicazioni
 
-VEDI QUI
+[VEDI QUI](http://dariogallina.it/pubblicazioni-esteso.html)
 
 # Conferenze, visite guidate, interventi a convegni
 
 2014, Milano, Università degli Studi, Dipartimento di Beni Culturali e Ambientali, Scuola di Specializzazione in Beni Storico Artistici, giornata di studi su San Tommaso di Acquanegra sul Chiese: un campione per l'analisi di un contesto romanico, intervento su L'analisi stratigrafica della chiesa e la sua restituzione 3D.
 
-2013, 14 giugno, Trento - Castello del Buonconsiglio. Presentazione dei volumi APSAT 4, 5, 6 (Castra, castelli e domus murate).
+2013, 14 giugno, Trento - Castello del Buonconsiglio. Presentazione dei volumi [APSAT 4, 5, 6](http://www.archeologica.it/index.php?page=editoria&category=06) (Castra, castelli e domus murate).
 
 2012, L’Aquila, VI Congresso Nazionale di Archeologia Medievale, L’Aquila, 13 settembre 2012, intervento su Sillogismo deduttivo o abduzione? Alcune proposte per l’abbandono/superamento del matrix di Harris nell’analisi dell’architettura.
 
@@ -223,13 +223,13 @@ Iseo, 15 marzo - Primavera culturale della Franciacorta e Sebino, conferenza su 
 
 2011, 6 maggio. Verona, Museo di Castelvecchio - Seminario di studi L’Iconografia Rateriana. L’archetipo e l’immagine tramandata: intervento con Giuliana Cavalieri Manasse su La rappresentazione delle mura urbane e la loro ricostruzione sulla base dei ritrovamenti archeologici.
 
-2010, 9 aprile. Pavia, Università degli Studi di Pavia - Convegno Internazionale Architettura dell’XI secolo nell’Italia del Nord. Storiografia e nuove ricerche, Pavia 8-10 aprile: intervento su La pieve di Sant’Andrea di Iseo. Dall’analisi stratigrafica e archeologica alla politica dell’episcopato bresciano tra XI e XII secolo; 7 settembre - Brescia, Parrocchia di San Bartolomeo: L’ala meridionale del lazzaretto nel Medioevo [vedi].
+2010, 9 aprile. Pavia, Università degli Studi di Pavia - Convegno Internazionale Architettura dell’XI secolo nell’Italia del Nord. Storiografia e nuove ricerche, Pavia 8-10 aprile: intervento su La pieve di Sant’Andrea di Iseo. Dall’analisi stratigrafica e archeologica alla politica dell’episcopato bresciano tra XI e XII secolo; 7 settembre - Brescia, Parrocchia di San Bartolomeo: L’ala meridionale del lazzaretto nel Medioevo \[[vedi](http://dariogallina.it/analisi-stratigrafiche/brescia-san-bartolomeo.html)\].
 
-2009, 8 giugno. Brescia, Università Cattolica – Convegno Casa abitationis nostre. Archeologia dell’edilizia medievale nelle province di Bergamo e Brescia: intervento su Tecniche costruttive, tipologie e forme dell’architettura bassomedievale nei paesi del Sebino bresciano e bergamasco; 2 settembre – Brescia, Parrocchia di San Bartolomeo – Alle origini di San Bartolomeo: gli edifici di XII e XIII secolo in corso di restauro [vedi].
+2009, 8 giugno. Brescia, Università Cattolica – Convegno Casa abitationis nostre. Archeologia dell’edilizia medievale nelle province di Bergamo e Brescia: intervento su Tecniche costruttive, tipologie e forme dell’architettura bassomedievale nei paesi del Sebino bresciano e bergamasco; 2 settembre – Brescia, Parrocchia di San Bartolomeo – Alle origini di San Bartolomeo: gli edifici di XII e XIII secolo in corso di restauro \[[vedi](http://dariogallina.it/analisi-stratigrafiche/brescia-san-bartolomeo.html)\].
 
-2008, 3 settembre - Brescia, Parrocchia di San Bartolomeo: Il complesso di San Bartolomeo tra XII e XV secolo. Notizie dal restauro in corso [vedi]; 7 novembre – Brescia, Ateneo di Brescia, “Obsculta, o fili, praecepta magistri”. Giornata di studio sul millenario monastero benedettino di Sant’Eufemia della Fonte: Le vicende edilizie del monastero urbano.
+2008, 3 settembre - Brescia, Parrocchia di San Bartolomeo: Il complesso di San Bartolomeo tra XII e XV secolo. Notizie dal restauro in corso \[[vedi](http://dariogallina.it/analisi-stratigrafiche/brescia-san-bartolomeo.html)\]; 7 novembre – Brescia, Ateneo di Brescia, “Obsculta, o fili, praecepta magistri”. Giornata di studio sul millenario monastero benedettino di Sant’Eufemia della Fonte: Le vicende edilizie del monastero urbano.
 
-2007, 10 marzo – Castello di Padernello (Bs) (Fondazione Castello di Padernello, Corso di “Animatore Culturale della Bassa”): L’archeologia dal mito ottocentesco alla stratigrafia; 31 agosto – Brescia, Parrocchia di San Bartolomeo: Il complesso di San Bartolomeo nel Medioevo [vedi]; 1 dicembre – San Benedetto Po (Mn), Convegno “La fabbrica Millenaria. Il cantiere polironiano fra documentazione e sopravvivenze materiali” (Comune di San Benedetto Po - Politecnico di Milano): L’indagine stratigrafica dei prospetti del Capitolo. Ipotesi di studio; 15 dicembre – Brescia, Università Cattolica, Convegno Internazionale “Identità benedettina nel Medioevo e nella prima Età Moderna (secoli VI-XVI)”: Il complesso di San Bartolomeo in clausuris di Brescia nel basso medioevo [vedi].
+2007, 10 marzo – Castello di Padernello (Bs) (Fondazione Castello di Padernello, Corso di “Animatore Culturale della Bassa”): L’archeologia dal mito ottocentesco alla stratigrafia; 31 agosto – Brescia, Parrocchia di San Bartolomeo: Il complesso di San Bartolomeo nel Medioevo \[[vedi](http://dariogallina.it/analisi-stratigrafiche/brescia-san-bartolomeo.html)\]; 1 dicembre – San Benedetto Po (Mn), Convegno “La fabbrica Millenaria. Il cantiere polironiano fra documentazione e sopravvivenze materiali” (Comune di San Benedetto Po - Politecnico di Milano): L’indagine stratigrafica dei prospetti del Capitolo. Ipotesi di studio; 15 dicembre – Brescia, Università Cattolica, Convegno Internazionale “Identità benedettina nel Medioevo e nella prima Età Moderna (secoli VI-XVI)”: Il complesso di San Bartolomeo in clausuris di Brescia nel basso medioevo \[[vedi](http://dariogallina.it/analisi-stratigrafiche/brescia-san-bartolomeo.html)\].
 
 2005, 19 febbraio – Cellatica (Bs) (F.A.I.): Le pievi della Franciacorta; 17 marzo - Iseo (Bs) (Primavera culturale della Franciacorta e Sebino): S. Andrea di Iseo: rilievo, analisi, e ipotesi sull’originaria funzione del campanile; 30 ottobre - Leno (Bs), Fondazione Dominato Leonense: La chiesa abbaziale di Leno. Dallo scavo archeologico alla ricostruzione virtuale.
 
