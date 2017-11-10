@@ -49,3 +49,5 @@ td
 		{%- assign image_index = image_index | plus: 1 -%}
 	{%- endif -%}
 {% endfor %}
+
+<br>
