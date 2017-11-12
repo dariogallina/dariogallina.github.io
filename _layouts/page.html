@@ -123,7 +123,7 @@ layout: default
 				break;
 			}
 		}
-		viewed_image.src = image.src;
+		viewed_image.src = image.src.replace("-thumb", "");
 		document.getElementById("image_counter").innerHTML = image_index+1 + " / " + images.length;
 	};
 
@@ -150,7 +150,7 @@ layout: default
 	{
 		var viewed_image = document.getElementById("viewed_image");
 		image_index = modulus(image_index + 1, images.length);
-		viewed_image.src = images[image_index].src;
+		viewed_image.src = images[image_index].src.replace("-thumb", "");
 		document.getElementById("image_counter").innerHTML = image_index+1 + " / " + images.length;
 	}
 
@@ -158,7 +158,7 @@ layout: default
 	{
 		var viewed_image = document.getElementById("viewed_image");
 		image_index = modulus(image_index - 1, images.length);
-		viewed_image.src = images[image_index].src;
+		viewed_image.src = images[image_index].src.replace("-thumb", "");
 		document.getElementById("image_counter").innerHTML = image_index+1 + " / " + images.length;
 	}
 	

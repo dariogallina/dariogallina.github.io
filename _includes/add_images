@@ -24,29 +24,31 @@ td
 {% endcapture %}
 
 {%- for image in site.static_files -%}
-	{%- if images_prefix == nil and image.path contains page.images_prefix -%}
-		{%- assign image_path_matches = true -%}
-	{%- elsif images_prefix and image.path contains images_prefix -%}
-		{%- assign image_path_matches = true -%}
-	{%- else -%}
-		{%- assign image_path_matches = false -%}
-	{%- endif -%}
-	{%- if images_category -%}
-		{%- unless image.path contains images_category -%}
+	{%- if image.path contains "-thumb" -%}
+		{%- if images_prefix == nil and image.path contains page.images_prefix -%}
+			{%- assign image_path_matches = true -%}
+		{%- elsif images_prefix and image.path contains images_prefix -%}
+			{%- assign image_path_matches = true -%}
+		{%- else -%}
 			{%- assign image_path_matches = false -%}
-		{%- endunless -%}
-	{%- endif -%}
-	{%- if image_path_matches -%}
-		{%- if start_index <= image_index -%}
-			{%- if stop_index == -1 or image_index < stop_index -%}
-				{%- if current_column == 0 -%}
-					{{ newline }}
-				{%- endif -%}
-| ![]({{ site.url }}{{ image.path }}){: .image}
-				{%- assign current_column = current_column | plus: 1 | modulo: columns -%}
-			{%- endif -%}
 		{%- endif -%}
-		{%- assign image_index = image_index | plus: 1 -%}
+		{%- if images_category -%}
+			{%- unless image.path contains images_category -%}
+				{%- assign image_path_matches = false -%}
+			{%- endunless -%}
+		{%- endif -%}
+		{%- if image_path_matches -%}
+			{%- if start_index <= image_index -%}
+				{%- if stop_index == -1 or image_index < stop_index -%}
+					{%- if current_column == 0 -%}
+						{{ newline }}
+					{%- endif -%}
+	| ![]({{ site.url }}{{ image.path }}){: .image}
+					{%- assign current_column = current_column | plus: 1 | modulo: columns -%}
+				{%- endif -%}
+			{%- endif -%}
+			{%- assign image_index = image_index | plus: 1 -%}
+		{%- endif -%}
 	{%- endif -%}
 {% endfor %}
 

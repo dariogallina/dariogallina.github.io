@@ -36,7 +36,7 @@ Ecco quindi le tavole di dettaglio contenute nel volume, mettendo in sequenza
 
 Valcamonica, 'montaggio' dei fogli delle Mappe di età napoleonica di Edolo, Mu, Sonico, Malonno per lo studio toponomastico dell'area attraversata dal collettore fognario Edolo-Sonico-Malonno (committ.: Studio Arch. Bianchi, Edolo; Comuni di Edolo, Sonico, Malonno, 2012).
 
-{% assign images_prefix = "Catasti storici/Tav" %}
+{% assign images_prefix = "catasti-storici/Tav" %}
 {% assign start_index = 0 %}
 {% assign stop_index = -1 %}
 
