@@ -2,6 +2,8 @@
 layout: page
 title: Brescia, Metrobus - Studio del rischio archeologico
 categories: 2d
+homepage_image: rischioarcheologico.jpg
+homepage_title: Rischio archeologico
 images_prefix: Metrobus_Tav_
 ---
 
