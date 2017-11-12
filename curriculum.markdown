@@ -2,7 +2,9 @@
 layout: page
 title: Curriculum
 categories: header
+homepage_image: Logo_home.jpg
 ---
+
 ![logo]({{ site.url }}/images/IMG home page/Logo_home.jpg)
 
 # Curriculum vitae - Presentazione
