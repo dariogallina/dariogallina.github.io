@@ -13,9 +13,16 @@ layout: default
 		<p id="image_counter"></p>
 		<a href="javascript:close_image_viewer()" id="image_viewer_close_button" class="image_viewer">✖</a>
 	</div>
+
+	{%- comment -%}
+	two dummy divs at the start and at the end because only Firefox supports 
+	justyfi-content: space-evenly, and so i have to use space-between
+	{%- endcomment -%}
+	<div></div> 
 	<div id="prev_image_button" class="image_viewer change_image_button">❮</div>
 	<img id="viewed_image" class="image_viewer">
 	<div id="next_image_button" class="image_viewer change_image_button">❯</div>
+	<div></div>
 </div>
 
 <style>
@@ -46,7 +53,7 @@ layout: default
 		bottom: 0px;
 		background-color: rgba(0, 0, 0, 0.6);
 		align-items: center;
-		justify-content: space-evenly;
+		justify-content: space-between;
 	}
 
 	#viewed_image
@@ -179,6 +186,14 @@ layout: default
 		.addEventListener("click", next_image);
 	document.getElementById("prev_image_button")
 		.addEventListener("click", prev_image);
+
+	document.addEventListener('keypress', (event) => {
+		if (event.key == "Escape" &&
+			document.getElementById("image_viewer_div").style.display != "none")
+		{
+			close_image_viewer();
+		}
+	});
 
 
 </script>
