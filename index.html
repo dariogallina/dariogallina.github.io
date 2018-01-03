@@ -96,12 +96,9 @@ layout: page
 <p>Dopo una formazione tradizionale nell’ambito dell’archeologia (laurea in Archeologia Medievale, collaborazioni a scavi archeologici, e scavi condotti su affidamento), i miei interessi si sono rivolti ormai da alcuni anni al settore dell’Archeologia dell’Architettura e alla gestione ed elaborazione digitale della documentazione grafica, temi relativamente ai quali ho svolto il Dottorato di Ricerca, e dove sono attivo come libero professionista e come collaboratore della didattica universitaria.</p>
 
 <hr />
-
-<table>
+<div style="display:flex; flex-wrap:wrap; justify-content:center">
   {%- for page in site.pages -%}
     {%- if page.homepage_image -%}
-      {% cycle '<tr>', '', '' %}
-      <th>
         <table>
           <tr>
 			{%- if page.homepage_title -%}
@@ -114,13 +111,6 @@ layout: page
             <th><a href="{{ page.url }}"><img src="{{ site.url }}/images/IMG home page/{{ page.homepage_image }}" alt="alt text" title="{{ page.title }}" /></a></th>
           </tr>
         </table>
-      </th>
-      {% capture tr_end %}
-        {% cycle '', '', '</tr>' %}
-      {%- endcapture -%}
     {%- endif -%}
   {%- endfor -%}
-  {%- if tr_end != '</tr>' -%}
-    </tr>
-  {%- endif -%}
-</table>
+</div>

@@ -14,9 +14,54 @@
 //   color: #b5b5b5;
 //   // font-size: 36px;
 // }
-td img{
+td img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 
+}
+
+.site-header, site-header:hover, site-header:visited {
+	background: #333;
+	color: #eaeaea;
+	font-family: Comfortaa;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Comfortaa;
+}
+
+.site-title, .site-title:hover, .site-title:visited{
+	color: #eaeaea;
+	font-size: 40px;
+	text-decoration: none;
+	margin-top: 20px;
+}
+
+.site-subtitle, .site-subtitle:hover, .site-subtitle:visited {
+	color: #f96150;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+.site-nav .page-link, .site-nav .page-link:hover, .site-nav .page-link:visited {
+	color: #eaeaea;
+}	
+
+a, a:hover, a:visited {
+	color: #cf4200;
+}
+	
+.site-header {
+	border-top: 0px;
+}
+
+.wrapper {
+	max-width: -webkit-calc(963px - (30px * 2));
+	max-width: calc(963px - (30px * 2));
+}
+
+@media screen and (max-width: 600px) {
+	.site-nav .menu-icon > svg path { fill: #eaeaea; }
+	.site-nav { background-color: #333333; border: 0px}
 }
