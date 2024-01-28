@@ -10,7 +10,7 @@ Dario Gallina
 
 via Patuzza 105, 25080 Nuvolera (Bs)
 
-030.6896845 - 347.4507810
+Tel. 347.4507810
 
 [dario.gallina@libero.it](mailto:dario.gallina@libero.it)
 
