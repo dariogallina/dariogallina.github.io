@@ -9,6 +9,25 @@ homepage_image: libro2_ok.jpg
 
 Le mie pubblicazioni, se possibile scaricabili in formato pdf.
 
+D. GALLINA, c.s., L’acqua nella villa delle Grotte di Catullo. Note sull’approvvigionamento idrico, sul settore termale e sulle cisterne, “Bollettino d’Arte”.
+
+D. GALLINA, 2023, Profili archeologici nel racconto martiriale della “Legenda maior”, in Santi Faustino e Giovita Patroni di Brescia. Origini e diffusione del culto, a c. di A. BARONIO, Brescia, Fondazione Civiltà Bresciana (Quaderni della rivista “Civiltà Bresciana”, 1), pp. 313-323.
+
+D. GALLINA, G. CAVALIERI MANASSE, 2022, Verona. I vomitori dell’Arena: una messa a fuoco, “Archeologia del Veneto 2015-2019. Notiziario delle Soprintendenze”, pp. 9-17.
+
+G. CAVALIERI MANASSE, D. GALLINA, 2021, Ancora qualche considerazione sull’Iconografia rateriana, in “Sotto il profilo del metodo”, Studi in onore di Silvia Lusuardi Siena in occasione del suo settantacinquesimo compleanno, a c. di C. GIOSTRA, C. PERASSI, M. SANNAZARO, Mantova, SAP Società Archeologica, pp. 243-258.
+
+D. GALLINA, 2019, Il Catasto napoleonico. Fiscalità, rappresentazione del territorio e degli abitati, in M. BERRUTI, A. FAIFERRI, D. GALLINA, G. MACULOTTI, Ponte di Legno ai tempi del Catasto Napoleonico (1811). Territorio, economia, toponomastica, Ponte di Legno, Comune di Ponte di Legno, pp. 7-159.
+
+D. GALLINA, 2018, Ex ungue leonem: ipotesi ricostruttive sulle fortificazioni di Tor dei Pagà, in Tor dei Pagà. Protostoria e medioevo di un sito d’alta quota. Indagini archeologiche 2011-2017, a c. di G. BELLANDI e M. SANNAZARO, Vione, Comune di Vione, pp. 135-149.
+
+D. GALLINA, 2017, La chiesa di San Nazaro nella corte di Sant’Ambrogio a Capiate (Olginate, Lc), in La lezione gentile. Scritti di storia dell’arte per Anna Maria Segagni Malacart, a c. di L.C. SCHIAVI, S. CALDANO, F. GEMELLI, Milano, Franco Angeli, pp. 119-134.
+
+D. GALLINA, 2017, Capiate, Corte di Sant’Ambrogio. Analisi stratigrafica delle fasi antiche e medievali, in La curtis di Capiate fra tardo antico e medioevo. Scoperte inedite e nuove ricerche sul territorio. Atti della prima Giornata di Studi (Monastero di Santa Maria del Lavello - Calolziocorte, 21 maggio 2016), a c. di A. MARIANI, F. CARMINATI, Capiate, Associazione Capiate - Radici nel futuro Onlus, pp. 135-218.
+
+A. ARRIGHETTI, A. CARDACI, D. GALLINA, R. INVERNIZZI, F. LO MONACO, R. RAO, 2017, Pavia capitale del Regno dei Longobardi: un’iniziativa di studio e valorizzazione, in Archeologia dei Longobardi: dati e metodi per nuovi percorsi di analisi. I Incontro per l’Archeologia barbarica (Milano, 2 maggio 2016), a c. di C. GIOSTRA, Mantova, SAP, pp. 177-196.
+
+
 D. Gallina, 2015, Analisi stratigrafica e restituzione della chiesa romanica, in San Tommaso ad Acquanegra sul Chiese. Storia, architettura e contesto figurativo di una chiesa abbaziale romanica, a c. di F. Scirea, Mantova, SAP (Ricerche di Architettura Storica, 1), pp. 57-79 e 312-337 \[Un estratto è scaricabile [qui](https://www.academia.edu/16697208/Analisi_stratigrafica_e_restituzione_della_chiesa_romanica_in_San_Tommaso_ad_Acquanegra_sul_Chiese._Storia_architettura_e_contesto_figurativo_di_una_chiesa_abbaziale_romanica_a_c._di_F._Scirea_Mantova_SAP_Ricerche_di_Architettura_Storica_1_pp._57-79_e_312-337)\].
 
 D. Gallina, 2014, Il catasto di età napoleonica del Comune di Vione (con Stadolina e Canè), in D. Gallina, D.M. Tognali, Vione con Stadolina e Canè nel Catasto napoleonico e nella toponomastica, Vione, Comune di Vione - Tipografia Camuna, pp. 5-121 \[Alcuni esempi delle tavole [qui](http://dariogallina.it/2d/55-catasti-storici.html)\]. 
