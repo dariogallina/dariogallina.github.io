@@ -63,6 +63,18 @@ Socio della Società degli Archeologi Medievisti Italiani ([SAMI](https://www.fa
 
 # Attività accademica e didattica
 
+A.A. 2023-24, Università Cattolica di Milano, Scuola di Specializzazione in Archeologia, incarico per esercitazioni di Architettura e tecniche costruttive (10 ore) sul tema delle ricostruzioni virtuali 3D dell’architettura.
+
+A.A. 2021/22, 12 novembre. Università degli Studi di Brescia, DICATAM, corso di Restauro architettonico (prof.ssa C. Coccoli), seminario (3 ore) dal titolo Elementi di analisi stratigrafica dell’architettura.
+
+A.A. 2022/23, 2020/21, 2019/20, 2018/19. Università degli studi di Brescia, DICATAM, Laboratorio di Restauro architettonico dedicato all’analisi stratigrafica dell’architettura (15 ore, prof.ssa C. Coccoli).
+
+A.A. 2017/18, ottobre, Università degli Studi di Brescia, Dipartimento di Ingegneria Civile, Architettura, Territorio, Ambiente e di Matematica: didattica integrativa (6 ore) del corso di Sociologia Urbana (prof. L. Codara) dedicata alle Stratificazioni storico-archeologiche nel tessuto urbano di Brescia dalle origini alle soglie dell’età moderna. Dicembre 2017, Università degli Studi di Brescia, DICATAM.
+
+A.A. 2016/17. 26 maggio, Università Cattolica di Milano, Scuola di Specializzazione in Beni Archeologici, presentazione del libro di P. GREPPI, Cantieri, maestranze e materiali dell’edilizia sacra a Milano dal IV al XII secolo. Analisi di un processo di trasformazione.
+
+A.A. 2015/16. Università degli Studi di Brescia, Dipartimento di Ingegneria Civile, Architettura, Territorio, Ambiente e di Matematica: didattica integrativa (6 ore) del corso di Sociologia Urbana (prof. L. Codara) dedicata alle Stratificazioni storico-archeologiche nel tessuto urbano di Brescia dalle origini alle soglie dell’età moderna. Università degli Studi di Bergamo, partecipazione al progetto di ricerca su “Pavia capitale longobarda” coordinato dal prof. A. Cardaci, in merito all’analisi stratigrafica dell’architettura. Università degli Studi di Bergamo, Dipartimento di Ingegneria e Scienze Applicate, corso di Laurea Magistrale in Ingegneria Edile, C.I. di Rilievo e Restauro per l’Architettura (proff. A. Cardaci e G. Mirabella Roberti) – Incarico di tutorato (15 ore), dedicato a Edilizia storica e analisi stratigrafica; Seminari didattici (6 ore) su Indagini stratigrafiche sul Castello di Romano di Lombardia. Università Cattolica di Milano, membro del comitato scientifico e docente della Summer School “Leggere il romanico. Strumenti archeologici e storico-artistici per la conoscenza dell’architettura medievale”, Almenno San Bartolomeo (Bg), 27-31 agosto 2016. Università Cattolica di Milano, Scuola di Specializzazione, 8 aprile - Lezione su La cripta longobarda di Sant’Eusebio a Pavia.
+
 A.A. 2014/15. Università degli Studi di Brescia, Dipartimento di Ingegneria Civile, Architettura, Territorio, Ambiente e di Matematica: didattica integrativa (9 ore) del corso di Sociologia Urbana (prof. L. Codara) dedicata alle Stratificazioni storiche nel tessuto urbano di Brescia dalle origini alle soglie dell’età moderna. Università degli Studi di Bergamo, Dipartimento di Ingegneria, corso di Laurea Magistrale in Ingegneria Edile, C.I. di Rilievo e Restauro per l’Architettura (proff. A. Cardaci e G. Mirabella Roberti) – Incarico di tutorato (12 ore), dedicato alla Gestione delle immagini digitali e fotoraddrizzamento; Seminario (9 ore) su Edilizia storica e analisi stratigrafica.
 
 A.A. 2013/14. Università Cattolica di Brescia, Facoltà di Lettere e Filosofia, Corso di Laurea Triennale in Lettere: docente a contratto per l'insegnamento (semestrale - 6 crediti) di Archeologia dell'Architettura. Tema del corso: Tecniche costruttive in pietra in Lombardia tra XI e XIII secolo. Università Cattolica di Milano, Facoltà di Lettere, Corso di Laurea Specialistica in Lettere-Archeologia: docente a contratto per l’insegnamento (semestrale – 6 crediti) di Archeologia dell’Edilizia Storica. Università degli Studi di Brescia, Dipartimento di Ingegneria Civile, Architettura, Territorio, Ambiente e di Matematica: didattica integrativa (16 ore) del corso di Sociologia Urbana (prof. L. Codara) dedicata alle Stratificazioni storiche nel tessuto urbano di Brescia dalle origini alle soglie dell’età moderna. Università degli Studi di Bergamo, corso di Laurea in Ingegneria Edile, C.I. di Rilievo e Restauro per l’Architettura – Modulo di Rilievo, prof. Alessio Cardaci: incarico di tutorato (12 ore) per il fotoraddrizzamento digitale.
@@ -117,7 +129,25 @@ A partire dall’A.A. 1995/96, nomina a Cultore della Materia presso l’insegna
 
 # Archeologia dell’edilizia storica - Analisi stratigrafiche / fotoraddrizzamenti
 
-2015 - Verona, via Quattro Spade. Strutture di età romana (committ.: sig. M. Ferro).
+2023/24 – Verona, Anfiteatro Arena, Incarico di consulenza alla DL per il cantiere Art Bonus e per l’analisi stratigrafica (committ. Comune di Verona). Brescia, corso Magenta 37, Fotoraddrizzamenti e analisi stratigrafica delle fasi medievali (Committ.: proprietà dell’immobile).
+
+2021/22 – San Benedetto Po (Mn), Analisi stratigrafica del campanile dell’abbazia di Polirone (committ.: impresa Mantovani, Verona). San Paolo/Pedergnaga (Bs), Analisi stratigrafica della cascina Inverardi (committ.: proprietà dell’immobile).
+
+2021 – Gussago (Bs), Pieve di S. Maria – Fotoraddrizzamento delle lastre del pluteo longobardo di Mavi orans (committ.: Fondazione Dominato Leonense).
+
+2020/21 - Bergamo, Mura venete, Bastione di Valverde – Analisi stratigrafica (committ.: Università degli Studi di Bergamo, prof. G. Mirabella).
+
+2019-23 - Verona, via Leoncino 44-46. Analisi stratigrafica delle mura di Gallieno e Teodorico (committ.: Istituto Diocesano per il Sostentamento del Clero).
+
+2018/19/20/21/22 - Verona, anfiteatro Arena, incarico di consulente della DL per gli aspetti archeologici dei lavori di ArtBonus (SMIngegneria, Padova), comprendente l’analisi stratigrafica di tutte le pareti interne dell’anfiteatro oggetto di restauro.
+
+2018 - San Benedetto Po (Mn), campanile di San Floriano (committ.: Comune di San Benedetto Po). Montichiari (Bs): chiesa di San Giorgio (committ.: P. Chiarini/Gruppo Archeologico Monteclarense).
+
+2017/18 - Verona, anfiteatro Arena, incarico di archeologo consulente del gruppo di progettazione degli ‘Interventi per la conservazione, valorizzazione e fruizione dell’anfiteatro romano “Arena di Verona” quale luogo della cultura e dello spettacolo’ per Art Bonus coordinato dallo studio SM Ingegneria srl. - prof. ing. C. Modena. Verona, anfiteatro Arena, studio dei vomitoria (committ.: Veronafiere s.p.a.), in collaborazione con G. Cavalieri Manasse. Palazzolo sull’Oglio (Bs) - Fotoraddrizzamenti e analisi del castello, in collaborazione con l’arch. S. Barbò (committ.: Comune di Palazzolo sull’Oglio). Toscolano Maderno (Bs), chiesa di Sant’Andrea -  Fotoraddrizzamenti, analisi stratigrafica e del quadro fessurativo (committ.: prof. M. Rossi, Università Cattolica di Milano).
+
+2016 - Ghedi, cinta del monastero di Santa Maria delle Grazie (committ.: Gruppo Archeologico di Ghedi).
+
+2015 - Verona, via Quattro Spade. Strutture di età romana (committ.: committ.: Kogi srl).
 
 2014 - Verona, Anfiteatro Arena, Arcovolo 60 (committ.: Comune di Verona). Sondrio, Castello Masegra - analisi stratigrafica (committ.: Comune di Sondrio). Olginate (Lc), fraz. Capiate, Corte S. Ambrogio - analisi stratigrafica (committ.: Associazione Capiate - Radici nel futuro onlus).
 
@@ -153,6 +183,16 @@ A partire dall’A.A. 1995/96, nomina a Cultore della Materia presso l’insegna
 
 # Ricostruzioni virtuali e animazioni 3D; elaborazioni grafiche 2D
 
+2023 – Crescentino (Vc), fraz. San Genuario, Ricostruzione 3D della chiesa medievale (committ.: Università del Piemonte Orientale, prof.ssa Eleonora Destefanis). Sirmione (Bs), Grotte di Catullo, Ricostruzione 3D di parte della villa (Committ.: prof. F. Sacchi, Università Cattolica di Milano).
+
+2022 – Iseo (Bs), Ricostruzione 3D del borgo e delle emergenze monumentali medievali e moderne per la costituzione del museo (committ.: Comune di Iseo).
+
+2019 - Verona, Ricostruzione diacronica del sito di Castel San Pietro - in collaborazione con G. Cavalieri Manasse (committ.: Soprintendenza Archeologia, Belle Arti e Paesaggio di Verona, dott.ssa B. Bruno).
+
+2017 - Ricostruzione 3D delle chiese di Pavia di Santa Maria Teodote, Santa Maria in Pertica e San Marino per la mostra Longobardi. Un popolo che cambia la storia (committ.: Musei Civici di Pavia; direz. scientifica: prof. S. Lomartire, Università degli Studi del Piemonte Orientale).
+
+2016/19 - Campagna fotografica ed elaborazione grafica dei corredi della necropoli longobarda di Porzano di Leno (committ.: prof. P. De Vingo, Università di Torino).
+
 2015 - Verona - Brevi filmati con ricostruzioni 3D delle mura e dell’anfiteatro (committ.: Archeoclub). Milano, Palazzo Litta - Ricostruzione della domus (committ.: Direzione Regionale per i Beni Culturali e Paesaggistici della Lombardia - dott.sse B. Bruno e A.M. Fedeli).
 
 2013 - Nave (Bs), Pieve della Mitria - Progetto archeologico ed elaborazione grafica di pannelli per lo Spazio Informativo presso la Pieve, in collaborazione con R. Pareccini (committ. [Associazione Amici Antica Pieve della Mitria Onlus](http://www.pievemitria.org/html/frame.html); coord.: A. Breda). \[[vedi](http://dariogallina.it/2d/2d-nave-bs-pieve-della-mitria.html)\]
@@ -185,9 +225,15 @@ A partire dall’A.A. 1995/96, nomina a Cultore della Materia presso l’insegna
 
 # Scavi archeologici condotti su affidamento
 
-2014 - Verona, Teatro Romano, casa Fontana - in collaborazione con A. Crosato (committ.: ditta Operes; Comune di Verona); 2000 - Rodengo Saiano (Bs), ex parrocchiale di San Salvatore a Saiano. Scavo pluristratificato \[[vedi](http://dariogallina.it/2d/rodengo-saiano-bs-san-salvatore.html)\]; 1999 - Coccaglio (Bs). Castello ricetto bassomedievale; 1999 - Chiari (Bs), saggi nell’area dell’Ex Conventino; 1998 - Sale Marasino (Bs). Area plebana e campanile di S. Zenone; 1998 - Urago d’Oglio (Bs), località Castellaro. Necropoli altomedievale; 1998 - Ospitaletto (Bs), fraz. Lovernato, pieve di S. Maria; 1997 - Brescia, via delle Battaglie, Palazzo Calini ai Fiumi. Mura del XII secolo; 1997 - Coccaglio (Bs). Saggi di scavo presso la pieve di S. Maria; 1995 - Brescia, corso Magenta, ex chiesa di S. Barnaba, saggi di scavo nella zona absidale.
+2021 – Verona, Liceo Maffei. Controllo archeologico e saggi per il progetto di consolidamento (Committ.: Provincia di Verona); 2014 - Verona, Teatro Romano, casa Fontana - in collaborazione con A. Crosato (committ.: ditta Operes; Comune di Verona); 2000 - Rodengo Saiano (Bs), ex parrocchiale di San Salvatore a Saiano. Scavo pluristratificato \[[vedi](http://dariogallina.it/2d/rodengo-saiano-bs-san-salvatore.html)\]; 1999 - Coccaglio (Bs). Castello ricetto bassomedievale; 1999 - Chiari (Bs), saggi nell’area dell’Ex Conventino; 1998 - Sale Marasino (Bs). Area plebana e campanile di S. Zenone; 1998 - Urago d’Oglio (Bs), località Castellaro. Necropoli altomedievale; 1998 - Ospitaletto (Bs), fraz. Lovernato, pieve di S. Maria; 1997 - Brescia, via delle Battaglie, Palazzo Calini ai Fiumi. Mura del XII secolo; 1997 - Coccaglio (Bs). Saggi di scavo presso la pieve di S. Maria; 1995 - Brescia, corso Magenta, ex chiesa di S. Barnaba, saggi di scavo nella zona absidale.
 
 # Attività di ricerca
+
+2022 – Comune di Iseo, incarico di consulenza per la realizzazione di elaborazione di modelli 3D delle maggiori strutture architettoniche medievali nel gruppo di lavoro per il progetto scientifico del percorso museografico dedicato alla storia di Iseo (direzione scientifica: dott.ssa I. Venturini).
+
+2021-22 – Fondazione Dominato Leonense – Catalogazione dei materiali della necropoli longobarda di Porzano di Leno.
+
+2017 - Comune di Vione, incarico per consulenza e collaborazione alla ricostruzione virtuale del sito fortificato di Tor dei Pagà (progetto “Tor dei Pagà dalla leggenda alla storia”).
 
 2010/12 - Consulenza e collaborazione al progetto “Vione Archeologica. Progetto di valorizzazione del patrimonio archeologico nel Comune di Vione” per l’analisi dei Catasti storici e delle strutture murarie del sito di Tor dei Pagà (committ.: Comune di Vione).
 
@@ -214,6 +260,20 @@ Marzo 2000 - In collaborazione con l’arch. Sabina Bocconcello, redazione dei p
 [VEDI QUI](http://dariogallina.it/pubblicazioni-esteso.html)
 
 # Conferenze, visite guidate, interventi a convegni
+
+2023, 10 marzo – Iseo, Serate di Storia e Archeologia, Verona romana e il suo anfiteatro: storia, archeologia e restauri dell’Arena. 2 aprile – Verona, Anfiteatro Arena, visita guidata per il CTG. 14 dicembre, Università di Padova, Convegno Internazionale Architetture e sistemi costruttivi dei teatri e degli anfiteatri in area adriatica, relazione con B. Bruno su L’anfiteatro di Verona: novità dai restauri e dagli scavi archeologici.
+
+2022, 26 novembre – Brescia, Fondazione Civiltà Bresciana, Don Angelo Cretti e i lavori di restauro dell’antico lazzaretto di San Bartolomeo. 17 novembre – Verona, 46° Corso di Storia ed Arte CTG, L’Arena di Verona: tecniche costruttive. 18 febbraio - Trento, Istituto Italiano dei Castelli, Analisi stratigrafica e restauro: un matrimonio riuscito o da separati in casa? 2022, 9 febbraio - Brescia, Università Cattolica – CESIME: seminario “Faustino e Giovita: il racconto del martirio per l’edizione della Legenda maior”, Profili archeologici nel racconto martiriale della Legenda maior.
+
+2020, 4 settembre, Verona - Anfiteatro Arena, visita guidata I muri dell’Arena raccontano: tecniche costruttive antiche, usi, riusi (e abusi) dal Medioevo ad oggi su incarico dei Civici Musei di Verona.
+
+2019, 13 dicembre - Trento, Istituto Italiano dei Castelli, L’Arena di Verona: dall’anfiteatro al luogo di spettacolo. Storia, archeologia e restauri. 15 marzo - Iseo, Serate di Archeologia USPAAA: I castelli della Lombardia orientale: nuovi dati da ricerche archeologiche e stratigrafiche. 19 febbraio - Milano, Istituto Italiano dei Castelli, Fortificazioni in Lombardia orientale. Nuovi casi di studio archeologico e stratigrafico. 
+
+2018, 12 ottobre - Castel Pergine (Tn), Istituto Italiano dei Castelli, Fortificazioni in Lombardia orientale. Nuovi casi di studio archeologico e stratigrafico tra alto e basso medioevo. 13 aprile - Puegnago del Garda (Bs), Master per Operatori del Turismo Sostenibile sul Garda, Le nuove tecnologie per la valorizzazione culturale e turistica. Ricostruzioni 3D e restauro virtuale.
+
+2017, 22 novembre - Milano, Università Cattolica, giornata di studio “Gli anfiteatri romani della Transpadana” - relazione con B. Bruno su La fondazione dell’Arena di Verona alla luce delle recenti indagini: dati tecnici e cronologici. 2017, 11 maggio - Verona, Società letteraria, L’Arena di Verona. Origine e rinascita di un monumento, con M. Cofani e G. Castiglioni.
+
+2016, 15 ottobre - Como, V incontro di aggiornamento sulle scoperte archeologiche nelle province di Como, Lecco, Sondrio, Varese e nel Canton Ticino 2013-215, intervento congiunto con P. Corti su La corte di S. Ambrogio a Capiate (Olginate, Lecco). 2016, 21 maggio - Capiate (Lc), giornata di studi La curtis di Capiate tra tardo antico e medioevo. Scoperte inedite e nuove ricerche sul territorio, intervento su Nuove analisi stratigrafiche del complesso di Capiate. 2016, 2 maggio - Milano, Università Cattolica, giornata di studi Archeologia dei Longobardi: dati e metodi per nuovi percorsi di analisi. Incontri di archeologia barbarica, intervento con A. Cardaci e A. Arrighetti su Il progetto “Pavia capitale del regno dei Longobardi”: dall’analisi storica al rilievo per la conservazione e la valorizzazione.
 
 2014, Milano, Università degli Studi, Dipartimento di Beni Culturali e Ambientali, Scuola di Specializzazione in Beni Storico Artistici, giornata di studi su San Tommaso di Acquanegra sul Chiese: un campione per l'analisi di un contesto romanico, intervento su L'analisi stratigrafica della chiesa e la sua restituzione 3D.
 
@@ -251,12 +311,8 @@ Iseo, 15 marzo - Primavera culturale della Franciacorta e Sebino, conferenza su 
 
 # Utilizzo dei mezzi informatici
 
-In ambiente Windows (XP Professional e 7 Pro) lavoro abitualmente con le più comuni periferiche (stampante, scanner, masterizzatore CD e DVD, fotocamera digitale, tavoletta grafica), con l’intero pacchetto Office e con i seguenti software: Adobe Photoshop CS6; Adobe Illustrator CS6; Adobe InDesign CS6; Adobe Acrobat Distiller CS6; Adobe Premiere Elements 12; Adobe GoLive 8; Kolor Autopano Giga 3.0; Easy HDR 3; Photomatix Pro 4.2.7; Joomla! 2.5; FileZilla 3.7.3; Autodesk AutoCad 2004; Deep Exploration 6.3; Arched 1.0; Galileo Siscam Archis 2DB; Perspective Rectifier; TriDmetrix 2013; Trimble SketchUp Pro 2015; Informatrix Piranesi 4.0; Pinnacle Studio 10; Kerkythea 2008 Echo; Twilight Render 2.4.6; Prezi; Heatsoft ADCS 2.01; ACDSee 18; Dropbox; PTLens; Agisoft Photoscan professional.
-
-# Dotazione hardware
-
-Workstation Fujitsu Celsius W530 Quad Core Xeon E3-1270v3 3.5 GHz (cache 8 MB) - 24 GB DDR3 RAM ECC - NVIDIA Quadro K2000 2048 MB - 1000 GB Serial ATA III + SSD 128 GB Serial ATA III (6Gb/s) - Win7Pro 64bit; Workstation Fujitsu-Siemens Celsius M460 (Core 2 Quad Q660 2.4 GHz; 4 Gb ddr2 RAM; Hd 500 Gb Serial ATA II; scheda video Nvidia FX 1700 512 Mb) - Monitor LaCie 324. PC portatile Toshiba Satellite M60-146 (Pentium M760 - 2 Gh; 1 Gb Ram; Hd 100 Gb). Fotocamera digitale Nikon D5300 (Nikkor 18-55 AF-S, F. 3,5-5,6; Nikkor AS-F 55-300, F. 4,5-5,6; Sigma 10-20 F. 4-5,6); X-Rite Color Checker Passport. Tavoletta grafica Wacom Intuos2 (formato A4+). Mouse 3D 3DConnexion SpaceNavigator PE. Stampante ink-jet HP 1220C (formato A3+); Stampante laser a colori Xerox ColorQube 8570 (formato A4); Scanner Canon CanoScan N670U (formato A4); Scanner A3 Mustek. Scanner per diapositive Plustek OpticFilm 7300. Disco esterno Verbatim 1,5 Tb; backup online Carbonite.
+In ambiente Windows 10 lavoro abitualmente con le più comuni periferiche (stampante, scanner, masterizzatore CD e DVD, fotocamera digitale, tavoletta grafica), con l’intero pacchetto Office e con i seguenti software: Adobe Photoshop CS6; Adobe Illustrator CS6; Adobe InDesign CS6; Adobe Acrobat Distiller CS6; Adobe Premiere Elements 12; Kolor Autopano Giga 3.0; Easy HDR 3; ACDSee 2022; Autodesk AutoCad 2022; Galileo Siscam Archis 2DB; Perspective Rectifier; Trimble SketchUp Pro 2023; Informatrix Piranesi 4.0; TheaRender 3.5; Twilight Render 2.4.6; Prezi; Heatsoft ADCS 2.01; Dropbox; PTLens; Agisoft Metashape; DxO ViewPoint 3. Backup online Carbonite.
 
 
 
-Documento aggiornato a: Novembre 2015.
+Documento aggiornato a: Gennaio 2024.
